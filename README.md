@@ -3,6 +3,10 @@
 
 A working ToDo list app.
 
+## Screenshots
+
+![App Screenshot](https://github.com/masangshubham/To-Do-List/blob/main/images/todoss.png?raw=true)
+
 
 ## Demo
 https://todolist-eld8.onrender.com
@@ -23,7 +27,5 @@ https://todolist-eld8.onrender.com
 **Server:** Node, Express
 
 **Database:** MongoDB
-## Screenshots
 
-![App Screenshot](https://github.com/masangshubham/To-Do-List/blob/main/images/todoss.png?raw=true)
 
